@@ -21,10 +21,4 @@ public class BoidsGenerator : MonoBehaviour
             currUnit.InitializeUnit(1);
         }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
